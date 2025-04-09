@@ -10,14 +10,14 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹You're always welcome🌹
 
-Telegram: [@whistle](https://t.me/devbeast5775) <br>
+Telegram: [@i3.sol](https://t.me/i3.sol) <br>
 
 
 ## 👀Usage
 1. Clone the repository
 
     ```
-    git clone https://github.com/whistledev411/pumpfun-maker-volume-bot-beta.git
+    git clone https://github.com/shiny-lua/pumpfun-maker-volume-bot-beta.git
     cd pumpfun-maker-volume-bot-beta
     ```
 2. Install dependencies
